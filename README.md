@@ -37,4 +37,4 @@ To compile and play this game, you will need:
 
 ## Credits
 
-Developed by **24L-0811** & **24L-3028**.
+Developed by **M.Ismail Qureshi**.

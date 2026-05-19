@@ -519,7 +519,7 @@ void displayMenu(RenderWindow& window, Font& font) {
 bool displayMainMenu(RenderWindow& window, Font& font) {
     Text title, playButton, names;
    
-    names = createText("Credits: 24L-0811 & 24L-3028", font, 20, { 25,555 });// Title: Hungry Snake Game
+    names = createText("Credits: M.Ismail Qureshi", font, 20, { 25,555 });// Title: Hungry Snake Game
     title = createText("HUNGRY SNAKE\n       GAME", font, 40, { 100,200 });// Play Button
     playButton=createText("Play", font, 30, { 210,325 });
     playButton.setFillColor(Color::Black);
