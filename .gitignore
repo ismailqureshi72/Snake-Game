@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.db
+*.pdb
+*.idb
+*.obj
+*.exe
+*.dll
+*.lib
+*.ilk
+*.exp
+*.res
+*.pch
+*.tlog
+*.log
+*.ipdb
+*.iobj
+
+# Build folders
+x64/
+x86/
+Debug/
+Release/
+
+# VS Code
+.vscode/
+
+# Ignore font files or images if you want (commented out by default)
+# *.ttf
+# *.jpg
